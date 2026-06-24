@@ -1,0 +1,12 @@
+# Notices
+
+This repository is a SynteroLink-maintained public distribution of Sub2API under the JACKSXA GitHub account.
+
+Current public repository: https://github.com/JACKSXA/sub2api
+SynteroLink: https://synterolink.com
+
+Original upstream project: https://github.com/Wei-Shaw/sub2api
+
+Sub2API is licensed under the GNU Lesser General Public License v3.0 or later. The full license text is included in `LICENSE`.
+
+This distribution removes upstream sponsor, referral, and contact material from public-facing documentation and replaces repository, installation, container metadata, and support references with SynteroLink/JACKSXA public information.
